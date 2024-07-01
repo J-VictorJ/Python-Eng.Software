@@ -1,0 +1,1 @@
+print("O olá mundo")
