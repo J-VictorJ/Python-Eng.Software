@@ -59,7 +59,7 @@ while True:
         for i in range(1, len(registro)):
             registro[i].MostraReg()
     elif opcao == '3':
-        print("Nasa've been hacked successfully")
+        print("Nasa has been hacked successfully")
         break
     else:
         print("Opção inválida")
